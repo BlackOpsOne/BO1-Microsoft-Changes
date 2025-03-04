@@ -20,3 +20,4 @@ Some of the main differences between the Microsoft Store and Steam versions of B
 - The WAW zombies maps contain entirely new map images on the main menu.
 - Ascension's map image on the main menu is the one from console.
 - Ascension also has a new skybox, as well as some hidden concept art in the files.
+- FPS will decrease when the full horde is on the map and being looked at.
