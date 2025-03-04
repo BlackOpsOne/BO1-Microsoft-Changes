@@ -32,6 +32,7 @@ Microsoft Store:
 
 ## Map Changes
 - Some fastfiles are different in size, indicating things have been removed or added.
+- None of the fastfiles can be extracted with any existing tools.
 
 ### `common_zombie_patch.ff` as an example:
 
@@ -56,8 +57,6 @@ Microsoft Store:
 - The spawn teleporter pad is extremely shiny.
 
 ![shot0001](https://github.com/user-attachments/assets/335d16f2-c7d6-4626-9e05-502d67319ff7)
-
-- None of the fastfiles can be extracted with any existing tools.
 
 ### Ascension
 - The skybox has been completely replaced, screenshot taken on Steam with the extracted skybox texture.
