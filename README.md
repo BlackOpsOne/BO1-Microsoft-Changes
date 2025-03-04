@@ -73,10 +73,18 @@ Microsoft Store:
 
 ![image](https://github.com/user-attachments/assets/6c203f2c-5e45-4b66-8963-112376926c43)
 
-## CustomTextures/Camos
+## Textures/Camos
 - Custom camos work just fine, those do not get reset.
 - The `main` folder contains 60 `.iwd` files now, whereas Steam has `42`. These files contain over 9,000 new textures/sounds, some are duplicates (this is the same on Steam but not to this degree).
   - Some of the last modified dates of the files within these iwd archives go back as far as 2024.
+
+- The AUG, Panzershreck & PPSH wallbuy chalks exist in the files.
+
+![image](https://github.com/user-attachments/assets/fcbab0ab-4fbc-4078-8d4e-338a257a337a)
+
+![image-1](https://github.com/user-attachments/assets/7a54ad14-ba11-45d7-bccc-0a457736b417)
+
+![image](https://github.com/user-attachments/assets/a9956737-d8da-4243-b9f7-66e48ae81353)
 
 ## Config
 - You can not edit the config as easily anymore, it will reset things you put in it that arent normally there after a system restart.
