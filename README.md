@@ -18,4 +18,5 @@ Some of the main differences between the Microsoft Store and Steam versions of B
 - Connecting to a lobby on both Zombies and Multiplayer does not work.
 - On the Multiplayer map "Jungle", the swamp is now completely blocked off with a fence as well as a rock next to the ladder path.
 - The WAW zombies maps contain entirely new map images on the main menu.
-- Ascension has a new skybox, as well as some hidden concept art in the files.
+- Ascension map image on the main menu is the one from console.
+- Ascension also has a new skybox, as well as some hidden concept art in the files.
