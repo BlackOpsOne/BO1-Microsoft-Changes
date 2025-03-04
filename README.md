@@ -76,6 +76,8 @@ Microsoft Store:
 
 ## CustomTextures/Camos
 - Custom camos work just fine, those do not get reset.
+- The `main` folder contains 60 `.iwd` files now, whereas Steam has `42`. These files contain over 9,000 new textures/sounds, some are duplicates (this is the same on Steam but not to this degree).
+  - Some of the last modified dates of the files within these iwd archives go back as far as 2024.
 
 ## Config
 - You can not edit the config as easily anymore, it will reset things you put in it that arent normally there after a system restart.
@@ -86,7 +88,5 @@ Microsoft Store:
 - On the map "Jungle", the swamp is now completely blocked off with a fence as well as a rock next to the ladder walkway.
 
 ## Miscellaneous
-- The `main` folder contains 60 `.iwd` files now, whereas Steam has `42`. These files contain over 9,000 new textures/sounds, some are duplicates (this is the same on Steam but not to this degree).
-  - Some of the last modified dates of the files within these iwd archives go back as far as 2024.
 - Connecting to a lobby on Zombies does not work.
 - FPS will noticably decrease when all 24 zombies are on the map and being looked at.
