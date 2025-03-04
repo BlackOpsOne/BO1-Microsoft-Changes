@@ -2,7 +2,7 @@
 Some of the main differences between the Microsoft Store and Steam versions of Black Ops.
 
 ## Executables
-- The game is now a 64 bit application, `BlackOps.exe` is significantly larger than Steam's.
+- The game is now a 64 bit application, both executables are larger than Steam's.
 
 ### `BlackOps.exe`
 
