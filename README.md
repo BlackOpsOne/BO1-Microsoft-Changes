@@ -26,7 +26,6 @@ Microsoft Store:
 
 - No existing tools currently work.
 - (Unconfirmed) This may affect box error.
-- (Unconfirmed) Insta kill rounds likely do not exist.
 - The check for restarting the map once the entities counter reaches `0x7ffffffd` (2,147,483,645) is unchanged. Many people know this as "reset".
 - Much of the underlying code appears to be changed.
 
@@ -87,7 +86,7 @@ Microsoft Store:
 ![image](https://github.com/user-attachments/assets/a9956737-d8da-4243-b9f7-66e48ae81353)
 
 ## Config
-- You can not edit the config as easily anymore, it will reset things you put in it that arent normally there after a system restart.
+- You can not edit the config as easily anymore, you need to edit some other files to get it to work.
 - Setting the config to read only mode will give you an `XGameSaveFilesGetFolderWithUiResult` error.
 
 ## Multiplayer
@@ -97,3 +96,4 @@ Microsoft Store:
 ## Miscellaneous
 - Connecting to a lobby on Zombies does not work.
 - FPS will noticably decrease when all 24 zombies are on the map and being looked at.
+- Insta kill rounds exist on the rounds that they normally do.
