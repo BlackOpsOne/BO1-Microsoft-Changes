@@ -1,7 +1,7 @@
 # BO1-Microsoft-Changes
 Some of the main differences between the Microsoft Store and Steam versions of Black Ops.
 
-Spoiler: The game is absolutely awful, it's not worth the $90.
+Spoiler: The game is absolutely awful and it is mostly visual chsnges, it's not worth the $90.
 
 ## Executables
 - The game is now a 64 bit application, both executables are larger than Steam's.
@@ -72,6 +72,9 @@ Microsoft Store:
 ![image](https://github.com/user-attachments/assets/a9fc7330-0bc4-4d1b-92bb-f498b38c2fd2)
 
 ![image](https://github.com/user-attachments/assets/6c203f2c-5e45-4b66-8963-112376926c43)
+
+### COTD
+- George's light now glows a dark purple.
 
 ### Der Riese
 - The Pack a Punch teleporter is extremely shiny and has added parts to it.
