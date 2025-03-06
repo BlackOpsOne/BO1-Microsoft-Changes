@@ -1,6 +1,8 @@
 # BO1-Microsoft-Changes
 Some of the main differences between the Microsoft Store and Steam versions of Black Ops.
 
+Spoiler: The game is absolutely awful, it's not worth the $90.
+
 ## Executables
 - The game is now a 64 bit application, both executables are larger than Steam's.
 
@@ -43,7 +45,6 @@ Microsoft Store:
 
 ![image](https://github.com/user-attachments/assets/d766c702-920d-45a3-aeba-e0fa270e0341)
 
-- Sprinting zombies appear to run slightly faster.
 - The World at War zombies maps contain entirely new map images on the main menu.
 
 ![image](https://github.com/user-attachments/assets/686adf29-a6eb-45ec-8dbf-c7b42ae9e806)
@@ -58,7 +59,7 @@ Microsoft Store:
 ![shot0001](https://github.com/user-attachments/assets/335d16f2-c7d6-4626-9e05-502d67319ff7)
 
 ### Ascension
-- The skybox has been completely replaced, screenshot taken on Steam with the extracted skybox texture.
+- The skybox has been completely replaced (however is unused), screenshot taken on Steam with the extracted skybox texture.
 
 ![image](https://github.com/user-attachments/assets/aa24bd84-99dd-48cd-9b2f-ba65fba41445)
 
@@ -72,8 +73,12 @@ Microsoft Store:
 
 ![image](https://github.com/user-attachments/assets/6c203f2c-5e45-4b66-8963-112376926c43)
 
+### Der Riese
+- The Pack a Punch teleporter is extremely shiny and has added parts to it.
+
 ## Textures/Camos
-- Custom camos work just fine, those do not get reset.
+- Custom camos work just fine.
+
 - The `main` folder contains 60 `.iwd` files now, whereas Steam has `42`. These files contain over 9,000 new textures/sounds, some are duplicates (this is the same on Steam but not to this degree).
   - Some of the last modified dates of the files within these iwd archives go back as far as 2024.
 
@@ -86,14 +91,13 @@ Microsoft Store:
 ![image](https://github.com/user-attachments/assets/a9956737-d8da-4243-b9f7-66e48ae81353)
 
 ## Config
-- You can not edit the config as easily anymore, you need to edit some other files to get it to work.
+- You can not edit the config as easily anymore, it will reset upon opening the game.
 - Setting the config to read only mode will give you an `XGameSaveFilesGetFolderWithUiResult` error.
 
 ## Multiplayer
 - The leaderboards appear to still have the developer/testing team stats on them.
-- On the map "Jungle", the swamp is now completely blocked off with a fence as well as a rock next to the ladder walkway.
 
 ## Miscellaneous
-- Connecting to a lobby on Zombies does not work.
-- FPS will noticably decrease when all 24 zombies are on the map and being looked at.
+- FPS will noticably decrease when all zombies are on the map.
 - Insta kill rounds exist on the rounds that they normally do.
+- Punkbuster runs with the game, likely modified, remains open in the background even after the game is closed.
