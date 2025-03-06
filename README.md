@@ -1,7 +1,7 @@
 # BO1-Microsoft-Changes
 Some of the main differences between the Microsoft Store and Steam versions of Black Ops.
 
-Spoiler: The game is absolutely awful and it is mostly visual chsnges, it's not worth the $90.
+Spoiler: The game is absolutely awful and it is mostly visual changes, it's not worth the $90.
 
 ## Executables
 - The game is now a 64 bit application, both executables are larger than Steam's.
